@@ -15,8 +15,8 @@ Introduce something for your team
 
 ## 2、团队分工
 
-|学号|代号|Github|专业方向|岗位角色|
-|:--:|:--:|:--:|:--:|:--:|
+|学号|代号|Github|岗位角色|
+|:--:|:--:|:--:|:--:|
 |15331390|小张张|Jiaqiao Zhang|项目经理、java工程师|
 |15331385|小小良|Junliang Yuan|客户经理、UI/UX设计师|
 |15331389|涵|Hanwei Zhang|技术经理、js工程师|
