@@ -6,7 +6,7 @@ layout: default
 
 &nbsp;&nbsp; 
 
-* 1、About（项目规划）
+* 1、[About](01-about)（项目规划）
 * 2、Team profile（团队组建）
 * 3、Investigation（项目前期调研）
 * 4、Vision（项目愿景）
