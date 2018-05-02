@@ -15,7 +15,7 @@ Introduce something for your team
 
 ## 2、团队分工
 
-|学号|代号|Github|岗位角色|
+|学号|昵称|Github|岗位角色|
 |:--:|:--:|:--:|:--:|
 |15331390|小张张|[HinanawiTenshi](https://github.com/HinanawiTenshi)|项目经理、java工程师|
 |15331385|小小良|[ZhangJiaQiao](https://github.com/ZhangJiaQiao)|客户经理、UI/UX设计师|
