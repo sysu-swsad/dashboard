@@ -8,27 +8,32 @@ layout: default
 
 * 1、[About](01-about)（项目规划）
 * 2、[Team profile](02-team-profile)（团队组建）
-* 3、Investigation（项目前期调研）
-* 4、Vision（项目愿景）
-* 5、Product Backlog （产品特性）
+* 3、[Investigation](04-Investigation)（项目前期调研）
+* 4、[Vision](05-Vision)（项目愿景）
+* 5、[Product Backlog](06-backlog)（产品特性）
 * 6、Requirement specification（需求规格说明）
-    - 6.1 Usecase Diagram（用例图）
-    - 6.2 Use Cases（用例+活动图）
-    - 6.3 Domian Model（领域模型）
+    - [6.1 Usecase Diagram](07-usecasediagram)（用例图）
+    - [6.2 Use Cases](08-usecase)（用例+活动图）
+    - [6.3 Model](09-model)（领域模型、逻辑模型、物理模型）
     - 6.4 State Model（状态模型）
     - **6.5 System Sequence Diagram（功能模型）**
 * 7、Design（设计）
     - 7.1 UI design
-        - XX 用例 UI设计
+        - [登录注册用例原型文件](https://pan.baidu.com/s/1LtsWomA5lpZ50qMbJgSygg) UI原型文件【密码：ak7k】（必须手动下载才能预览）
     - 7.2 Database design
-        - 7.2.1 用户及权限系统数据库设计
+        <!-- - 7.2.1 用户及权限系统数据库设计
         - 7.2.2 XX子系统数据课设计 
-        - 7.2.x 第三方数据评审结果
+        - 7.2.x 第三方数据评审结果 -->
     - **7.3 API 设计**
 * 8、生产规范与指南
-    - 8.1 XX 代码规范
-    - 8.2 REST API 设计规范
+    - [前端格式规范](https://zhuanlan.zhihu.com/p/20616464)
+   - [后端编码规范](https://blog.csdn.net/qq_31805915/article/details/79951929)
 * X1 meet_recording
     - inception meeting (yy/mm/dd)
 * X2 Tech/Work Report
-    - 学号-title
+    - [15331019-CJJ-技术报告](https://blog.csdn.net/m0_38016385/article/details/79920637)
+    - [15331017-CHM-技术报告](https://blog.csdn.net/qq_38121300/article/details/79936182)
+    - [15331018-CH-技术报告](https://blog.csdn.net/chenh297/article/details/79933829)
+    - [15331023-CKY-技术报告](http://www.cnblogs.com/JerryChan31/p/8809440.html)
+    - [15331015-CD-技术报告](https://blog.csdn.net/qq_31805915/article/details/79952007)
+    - [15331014-ZW-技术报告](https://mp.csdn.net/postedit/79922310)

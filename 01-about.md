@@ -11,48 +11,48 @@ title: 关于项目
 
 ## 1、项目简介
 
-好吃易点是新一代个性化餐厅自助点餐服务云平台。用户只需微信扫码，获取一站式服务；商家...。主要特点包括：
+木星旅行通过提供体验式攻略、智能行程定制服务，解决游客不能体验式旅行、行程规划繁琐等问题，让用户更能玩出个性、玩出深度。
 
-* 客户通过做面二维码直接呼唤微信服务小程序点餐、呼叫服务、支付；
-* 每个餐厅拥有自己的微信服务小程序，可以自由定制；
-* ...
+* 核心价值：智能、简易规划体验式行程
+
+* 盈利模式：通过和当地旅游资源合作，发展潜在的广告业务；通过和OTA合作，发展导量变现业务。
+
+* 业务模式：与OTA合作，定期获取旅游资源数据，精选其中符合体验要求的资源点，然后根据用户需求串联相应的资源点生成一条行程。和当地旅游资源合作，帮助推广。
 
 ## 2、主要制品
 
-* [需求文档]()
+* [产品需求文档](03-prd)
 * [架构设计]()
 
 
 ## 3、敏捷开发迭代管理
 
 * Inceptions
-    - goal: 就产品“产品范围、愿景和核心业务”达成一致
+    - goal: 研究市面上的旅游产品；就“产品范围、愿景和核心业务”等达成一致；生成产品需求文档。
     - 前期工作：
-        - 产品调查：xxx
+        - 用户、市场调研
         - 团队组织
+        - 人物建模
+        - 需求定义
+        - 信息架构
     - 项目启动会议：所有人
-    - 项目愿景等文档： xxx
-    - XX业务故事板设计: xxx
-* Iteration 1 (3 weeks from yy.mm.dd to yy.mm.dd)
+* Iteration 1 (2 weeks from 2018.4.16 to 2018.4.29)
     - goals:
-        - makes tech prototype for something
-        - builds a proto system to demostrate core scene
-        - collects 50% requirments scene stories
-    - weeks 1
+        - 完成登录与注册的模块设计
+        - 前后端磨合和初识搭建
+    - 具体要求
         - 需求分析
-            - task1：
-            - task2：
+            - task1：登录
+            - task2：注册
         - 设计与编码
-            - task1：
-            - task2：
+            - task1：登录模块前后端
+            - task2：注册模块前后端
         - 学习或其他
-            - task1：
-            - task2：
-    - weeks 2
-    - weeks 3
-* Iteration 2 (3 weeks from yy.mm.dd to yy.mm.dd)
+            - task1：前端的React与Mobx
+            - task2：后端的部署
+<!-- * Iteration 2 (3 weeks from yy.mm.dd to yy.mm.dd)
     - goals:
-        - ...
+        - ... -->
         
 
 
