@@ -10,5 +10,5 @@ title: 用例图
 {:toc}
 
 ## Use-case
-![usecase1](https://github.com/jupiter-sysu/jupiter-document/blob/master/assets/pics/usecase1.png)
-![usecase2](https://github.com/jupiter-sysu/jupiter-document/blob/master/assets/pics/usecase2.png)
+![usecase1](https://img-blog.csdn.net/20180504154819543)
+![usecase2](https://img-blog.csdn.net/20180504154825719)
