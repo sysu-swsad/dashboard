@@ -65,7 +65,7 @@ title: 产品需求文档
 （4）自由行主要人群为8090。自由行的主体人群正是崇尚自由、个性的80后、90后。这一人群出生在1984-1995年之间，2014年19-30岁的人口中国共有2.7亿，占中国总人口比例的14%。
 
 （5）体验式旅行受到旅客欢迎。随着生活经济条件越来越好，人们的追求越来越高，旅游不再单单是单纯地赶到各个景点囫囵吞枣，而是更讲求旅游过程中的体验，更喜欢自己规划旅行的乐趣，这其实是在追求人比较高层次的需求。
-![Alt text](https://mc-testing.oss-cn-shenzhen.aliyuncs.com/1521201198863.png?Expires=1522332278&OSSAccessKeyId=TMP.AQFMl45Z2piSKFqAsjALH-YVMaoiymuoK23fKyYYVjfqBJwR3aZtt6k-CMCBADAtAhUA144KpWHTFRoSkggnZ1LKlvh1sKECFG0kS7ZSGbtBi-4vTvgT19kIpBkl&Signature=70BOhfxkVvKp04HfDVgHmjSYBsI%3D)
+
 
 ### 3、市场趋势
 
@@ -202,7 +202,7 @@ title: 产品需求文档
 (12) 他觉得这些地方都很棒，体验很好，很符合自己想要的。其中玩了一些觉得确实挺不错的，想分享自己的看法，于是他整理了照片发了游记和点评，看到有人点赞和评论他，很是开心。另外，他自己发现了一个特别的体验玩法，是app里还没有人这样玩的。因此他给app投了稿，创建了一种新体验。一想到他的玩法能给以后的人提供参考，他就非常开心。整个旅行下来之后，他觉得此次旅行非常值得非常有意义。
 
 ## 五、信息架构图
-![](https://img-blog.csdn.net/20180504154831358)
+![](./assets/pics/1522331234487.jpg)
 
 
 

@@ -116,7 +116,7 @@ d. 当用户并没有提供记录用户位置的权限时
 
  - 简要说明
 ○	用户可以根据目的地、感兴趣的玩法等筛选旅游体验
-![这里写图片描述](http://img.blog.csdn.net/20180419233355209?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzgxMjEzMDA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![这里写图片描述](./assets/pics/20180420172347584.png)
 
 
 **casual用例2-编写游记**
@@ -138,7 +138,7 @@ d. 当用户并没有提供记录用户位置的权限时
 
  - 简要说明
 ○	用户撰写游记和分享行程，并发布在应用上。
-![这里写图片描述](http://img.blog.csdn.net/20180419233525470?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzgxMjEzMDA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![这里写图片描述](./assets/pics/20180419233525470.jpeg)
 
 **casual用例3-点评行程**
 
@@ -159,7 +159,7 @@ d. 当用户并没有提供记录用户位置的权限时
 
  - 简要说明
 ○	用户对已出行的行程进行星级评价并评论。
-![这里写图片描述](http://img.blog.csdn.net/20180420172006226?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd2VpeGluXzM2OTQyOTU4/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![这里写图片描述](./assets/pics/20180420172006226.png)
 
 **casual用例4-创建体验**
 
@@ -180,7 +180,7 @@ d. 当用户并没有提供记录用户位置的权限时
 
  - 简要说明
 ○	用户根据自己的行程，创建自己的旅行体验。
-![这里写图片描述](http://img.blog.csdn.net/20180420172347584?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd2VpeGluXzM2OTQyOTU4/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![这里写图片描述](./assets/pics/20180420172347584.png)
 
 ## brief用例
 **用例1**

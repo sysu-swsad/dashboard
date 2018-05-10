@@ -21,10 +21,6 @@ layout: default
     - 7.1 UI design
         - [登录注册用例原型文件](https://pan.baidu.com/s/1LtsWomA5lpZ50qMbJgSygg) UI原型文件【密码：ak7k】（必须手动下载才能预览）
     - 7.2 Database design
-        
-        <!-- - 7.2.1 用户及权限系统数据库设计
-        - 7.2.2 XX子系统数据课设计 
-        - 7.2.x 第三方数据评审结果 -->
     - **7.3 API 设计**
 * 8、生产规范与指南
     - [前端格式规范](https://zhuanlan.zhihu.com/p/20616464)
@@ -38,3 +34,5 @@ layout: default
     - [15331023-CKY-技术报告](http://www.cnblogs.com/JerryChan31/p/8809440.html)
     - [15331015-CD-技术报告](https://blog.csdn.net/qq_31805915/article/details/79952007)
     - [15331014-ZW-技术报告](https://mp.csdn.net/postedit/79922310)
+* X3 mid-term model practice
+     - [提供给其他小组的文件:鲨鱼记账](10-midterm-practice) 

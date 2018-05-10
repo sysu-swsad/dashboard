@@ -10,12 +10,12 @@ title: 领域模型
 {:toc}
 
 ## 领域模型
-![](https://img-blog.csdn.net/20180504154737786)
-![](https://img-blog.csdn.net/20180504154748964)
-![](https://img-blog.csdn.net/2018050415475431)
-![](https://img-blog.csdn.net/20180504154757474)
+![](./assets/pics/domain1.png)
+![](./assets/pics/domain2.png)
+![](./assets/pics/domain3.png)
+![](./assets/pics/domain4.png)
 
 ## 数据库模型
 **逻辑模型**
-![](https://img-blog.csdn.net/20180504154812227)
+![](./assets/pics/logical.png)
 **物理模型**

@@ -10,5 +10,5 @@ title: 用例图
 {:toc}
 
 ## Use-case
-![usecase1](https://img-blog.csdn.net/20180504154819543)
-![usecase2](https://img-blog.csdn.net/20180504154825719)
+![usecase1](./assets/pics/usecase1.png)
+![usecase2](./assets/pics/usecase2.png)
