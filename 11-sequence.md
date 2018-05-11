@@ -10,7 +10,7 @@ title: 功能模型
 {:toc}
 
 ## 登录
-![](./assets/pics/sequence_15331015.png)
+![](./assets/pics/sequence_15331015.PNG)
 
 ## 注册
 ![](./assets/pics/sequence_15331019.png)
