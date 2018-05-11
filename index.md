@@ -16,7 +16,7 @@ layout: default
     - [6.2 Use Cases](08-usecase)（用例+活动图）
     - [6.3 Model](09-model)（领域模型、逻辑模型、物理模型）
     - 6.4 State Model（状态模型）
-    - **6.5 System Sequence Diagram（功能模型）**
+    - [6.5 System Sequence Diagram](11-sequence)（功能模型）
 * 7、Design（设计）
     - 7.1 UI design
         - [登录注册用例原型文件](https://pan.baidu.com/s/1LtsWomA5lpZ50qMbJgSygg) UI原型文件【密码：ak7k】（必须手动下载才能预览）
