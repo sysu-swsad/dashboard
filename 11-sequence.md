@@ -20,3 +20,6 @@ title: 功能模型
 
 ## 添加新任务
 ![](./assets/pics/sequence_15331017.png)
+
+## 查看玩法页
+![](./assets/pics/sequence_15331023.png)
