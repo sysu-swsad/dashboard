@@ -23,3 +23,6 @@ title: 功能模型
 
 ## 查看玩法页
 ![](./assets/pics/sequence_15331023.png)
+
+## 查看游记
+![](./assets/pics/sequence_15331018.png)
