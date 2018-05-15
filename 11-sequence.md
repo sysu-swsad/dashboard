@@ -10,8 +10,24 @@ title: 功能模型
 {:toc}
 
 ## 登录
+<<<<<<< HEAD
 ![](./assets/pics/sequence_15331019.png)
 
+=======
+![](./assets/pics/sequence_15331015.PNG)
+>>>>>>> 6ccf4d021324978bccedce56aa4d509999854cfb
 
 ## 注册
 ![](./assets/pics/sequence_15331019.png)
+
+## 找回密码
+![](./assets/pics/sequence_15331014.png)
+
+## 添加新任务
+![](./assets/pics/sequence_15331017.png)
+
+## 查看玩法页
+![](./assets/pics/sequence_15331023.png)
+
+## 查看游记
+![](./assets/pics/sequence_15331018.png)
