@@ -35,4 +35,5 @@ layout: default
     - [15331015-CD-技术报告](https://blog.csdn.net/qq_31805915/article/details/79952007)
     - [15331014-ZW-技术报告](https://mp.csdn.net/postedit/79922310)
 * X3 mid-term model practice
-     - [提供给其他小组的文件:鲨鱼记账](10-midterm-practice) 
+     - [提供给其他小组的文件:鲨鱼记账](10-midterm-practice)
+     - [优秀答案](https://kake4420.github.io/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1Hw-6/)  
