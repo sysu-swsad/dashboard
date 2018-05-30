@@ -10,12 +10,7 @@ title: 功能模型
 {:toc}
 
 ## 登录
-<<<<<<< HEAD
-![](./assets/pics/sequence_15331019.png)
-
-=======
 ![](./assets/pics/sequence_15331015.PNG)
->>>>>>> 6ccf4d021324978bccedce56aa4d509999854cfb
 
 ## 注册
 ![](./assets/pics/sequence_15331019.png)

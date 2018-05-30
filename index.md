@@ -17,12 +17,13 @@ layout: default
     - [6.3 Model](09-model)（领域模型、逻辑模型、物理模型）
     - 6.4 State Model（状态模型）
     - [6.5 System Sequence Diagram](11-sequence)（功能模型）
+    - [6.6 Supplementary Requirements](12-supplement)（补充需求）
 * 7、Design（设计）
     - 7.1 UI design
         - [登录注册用例原型文件](https://pan.baidu.com/s/1LtsWomA5lpZ50qMbJgSygg) UI原型文件【密码：ak7k】（必须手动下载才能预览）
     - 7.2 Database design
     - **7.3 API 设计**
-* 8、生产规范与指南
+    - [7.4 Software Architecture Document](13-architecture)
     - [前端格式规范](https://zhuanlan.zhihu.com/p/20616464)
    - [后端编码规范](https://blog.csdn.net/qq_31805915/article/details/79951929)
 * X1 meet_recording
