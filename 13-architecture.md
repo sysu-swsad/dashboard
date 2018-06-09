@@ -32,4 +32,8 @@ title: 架构设计
 **其他可以选择的方案**
 阿里云也有OSS服务器，不过使用起来没有那么方便。
 
+**逻辑视图**
+![](./assets/pics/ljst.PNG)
 
+**物理视图**
+![](./assets/pics/wlst.PNG)
