@@ -33,7 +33,7 @@ layout: default
     - 8.1 XX 代码规范
     - 8.2 REST API 设计规范
     - **8.3 逻辑架构到应用程序映射指南**
-    - **8.4 物理架构云上部署 dock-compose。yml 文件编写与使用**
+    - **8.4 物理架构云上部署 dock-compose.yml 文件编写与使用**
 * X1 meet_recording
     - inception meeting (yy/mm/dd)
 * X2 Tech/Work Report
