@@ -22,10 +22,14 @@ layout: default
     - 7.1 UI design
         - [登录注册用例原型文件](https://pan.baidu.com/s/1LtsWomA5lpZ50qMbJgSygg) UI原型文件【密码：ak7k】（必须手动下载才能预览）
     - 7.2 Database design
-    - **7.3 API 设计**
+    - [7.3 API设计](https://apizza.net/console/project/d219e15359947f0ce7411b7b91fd5668/browse)
     - [7.4 Software Architecture Document](13-architecture)
-    - [前端格式规范](https://zhuanlan.zhihu.com/p/20616464)
-   - [后端编码规范](https://blog.csdn.net/qq_31805915/article/details/79951929)
+   
+* 8、生产规范与指南
+    - [8.1 前端格式规范](https://zhuanlan.zhihu.com/p/20616464)
+    - [8.2 后端编码规范](https://blog.csdn.net/qq_31805915/article/details/79951929)
+    - [8.3 逻辑架构到应用程序映射指南]()
+    - [8.4 物理架构云上部署 dock-compose.yml 文件编写与使用]()
 * X1 meet_recording
     - inception meeting (yy/mm/dd)
 * X2 Tech/Work Report
@@ -35,6 +39,6 @@ layout: default
     - [15331023-CKY-技术报告](http://www.cnblogs.com/JerryChan31/p/8809440.html)
     - [15331015-CD-技术报告](https://blog.csdn.net/qq_31805915/article/details/79952007)
     - [15331014-ZW-技术报告](https://mp.csdn.net/postedit/79922310)
-* X3 mid-term model practice
+* X3 mid-term mod el practice
      - [提供给其他小组的文件:鲨鱼记账](10-midterm-practice)
      - [优秀答案](https://blog.csdn.net/m0_38088298/article/details/80321397)  

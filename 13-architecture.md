@@ -33,7 +33,7 @@ title: 架构设计
 阿里云也有OSS服务器，不过使用起来没有那么方便。
 
 **逻辑视图**
-![](./assets/pics/ljst.PNG)
+![](./assets/pics/ljst.png)
 
 **物理视图**
-![](./assets/pics/wlst.PNG)
+![](./assets/pics/wlst.png)
