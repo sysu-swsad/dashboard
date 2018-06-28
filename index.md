@@ -29,7 +29,7 @@ layout: default
     - [8.1 前端格式规范](https://zhuanlan.zhihu.com/p/20616464)
     - [8.2 后端编码规范](https://blog.csdn.net/qq_31805915/article/details/79951929)
     - [8.3 逻辑架构到应用程序映射指南]()
-    - [8.4 物理架构云上部署 dock-compose.yml 文件编写与使用]()
+    - [8.4 物理架构云上部署 dock-compose.yml 文件编写与使用](14-docker_compose)
 * X1 meet_recording
     - inception meeting (yy/mm/dd)
 * X2 Tech/Work Report
