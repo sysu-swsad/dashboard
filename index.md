@@ -45,7 +45,7 @@ layout: default
 * X4 Final Report
     - [15331019-CJJ-FinalReport]()
     - [15331017-CHM-FinalReport]()
-    - [15331018-CH-FinalReport]()
+    - [15331018-CH-FinalReport](./reports/report_15331018)
     - [15331023-CKY-FinalReport](reports/FinalReport-JerryChan)
     - [15331015-CD-FinalReport]()
     - [15331014-ZW-FinalReport]()
