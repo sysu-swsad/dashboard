@@ -39,6 +39,13 @@ layout: default
     - [15331023-CKY-技术报告](http://www.cnblogs.com/JerryChan31/p/8809440.html)
     - [15331015-CD-技术报告](https://blog.csdn.net/qq_31805915/article/details/79952007)
     - [15331014-ZW-技术报告](https://mp.csdn.net/postedit/79922310)
-* X3 mid-term mod el practice
+* X3 mid-term model practice
      - [提供给其他小组的文件:鲨鱼记账](10-midterm-practice)
      - [优秀答案](https://blog.csdn.net/m0_38088298/article/details/80321397)  
+* X4 Final Report
+    - [15331019-CJJ-FinalReport]()
+    - [15331017-CHM-FinalReport]()
+    - [15331018-CH-FinalReport]()
+    - [15331023-CKY-FinalReport](reports/FinalReport-JerryChan)
+    - [15331015-CD-FinalReport]()
+    - [15331014-ZW-FinalReport]()
