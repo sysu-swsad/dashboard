@@ -44,7 +44,7 @@ layout: default
      - [提供给其他小组的文件:鲨鱼记账](10-midterm-practice)
      - [优秀答案](https://blog.csdn.net/m0_38088298/article/details/80321397)  
 * X4 Final Report
-    - [15331019-CJJ-FinalReport]()
+    - [15331019-CJJ-FinalReport](./reports/15331019_report)
     - [15331017-CHM-FinalReport](./reports/15331017_report)
     - [15331018-CH-FinalReport](./reports/report_15331018)
     - [15331023-CKY-FinalReport](reports/FinalReport-JerryChan)
