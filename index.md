@@ -24,6 +24,7 @@ layout: default
     - 7.2 Database design
     - [7.3 API设计](https://apizza.net/console/project/d219e15359947f0ce7411b7b91fd5668/browse)
     - [7.4 Software Architecture Document](13-architecture)
+    - [7.5 ECB](15-BCE)
    
 * 8、生产规范与指南
     - [8.1 前端格式规范](https://zhuanlan.zhihu.com/p/20616464)
@@ -44,7 +45,7 @@ layout: default
      - [优秀答案](https://blog.csdn.net/m0_38088298/article/details/80321397)  
 * X4 Final Report
     - [15331019-CJJ-FinalReport]()
-    - [15331017-CHM-FinalReport]()
+    - [15331017-CHM-FinalReport](./reports/15331017_report)
     - [15331018-CH-FinalReport](./reports/report_15331018)
     - [15331023-CKY-FinalReport](reports/FinalReport-JerryChan)
     - [15331015-CD-FinalReport]()
