@@ -1,4 +1,15 @@
-# 物理架构云上部署 dock-compose.yml 文件编写与使用指南
+---
+layout: default
+title: 物理架构云上部署
+---
+
+# 物理架构云上部署
+{:.no_toc}
+
+* 目录
+{:toc}
+
+*物理架构云上部署 dock-compose.yml 文件编写与使用指南*
 
 ## 官方文档介绍：
 > Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration. 
@@ -596,7 +607,7 @@ entrypoint 也可以是一个列表，方法类似于 dockerfile
         - memory_limit=-1
         - vendor/bin/phpunit
 
-21. env_file
+1.  env_file
 从文件中添加环境变量。可以是单个值或是列表 
 如果已经用 `docker-compose -f FILE` 指定了 Compose 文件，那么 `env_file` 路径值为相对于该文件所在的目录
 

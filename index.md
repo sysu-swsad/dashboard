@@ -15,9 +15,8 @@ layout: default
     - [6.1 Usecase Diagram](07-usecasediagram)（用例图）
     - [6.2 Use Cases](08-usecase)（用例+活动图）
     - [6.3 Model](09-model)（领域模型、逻辑模型、物理模型）
-    - 6.4 State Model（状态模型）
-    - [6.5 System Sequence Diagram](11-sequence)（功能模型）
-    - [6.6 Supplementary Requirements](12-supplement)（补充需求）
+    - [6.4 System Sequence Diagram](11-sequence)（功能模型）
+    - [6.5 Supplementary Requirements](12-supplement)（补充需求）
 * 7、Design（设计）
     - 7.1 UI design
         - [登录注册用例原型文件](https://pan.baidu.com/s/1LtsWomA5lpZ50qMbJgSygg) UI原型文件【密码：ak7k】（必须手动下载才能预览）
@@ -32,7 +31,7 @@ layout: default
     - [8.3 逻辑架构到应用程序映射指南](16-logical-to-application)
     - [8.4 物理架构云上部署 dock-compose.yml 文件编写与使用](14-docker_compose)
 * X1 meet_recording
-    - inception meeting (yy/mm/dd)
+    - [inception meeting (2018/03/18)](17-meeting)
 * X2 Tech/Work Report
     - [15331019-CJJ-技术报告](https://blog.csdn.net/m0_38016385/article/details/79920637)
     - [15331017-CHM-技术报告](https://blog.csdn.net/qq_38121300/article/details/79936182)
