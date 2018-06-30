@@ -47,5 +47,5 @@ layout: default
     - [15331017-CHM-FinalReport](./reports/15331017_report)
     - [15331018-CH-FinalReport](./reports/report_15331018)
     - [15331023-CKY-FinalReport](reports/FinalReport-JerryChan)
-    - [15331015-CD-FinalReport]()
-    - [15331014-ZW-FinalReport]()
+    - [15331015-CD-FinalReport](./reports/15331014_report)
+    - [15331014-ZW-FinalReport](./reports/15331015_report)
