@@ -20,7 +20,7 @@ layout: default
 * 7、Design（设计）
     - 7.1 UI design
         - [登录注册用例原型文件](https://pan.baidu.com/s/1LtsWomA5lpZ50qMbJgSygg) UI原型文件【密码：ak7k】（必须手动下载才能预览）
-    - 7.2 Database design
+    - [7.2 Database design](https://github.com/jupiter-sysu/jupiter-be/wiki/Database-Documentation)
     - [7.3 API设计](https://apizza.net/console/project/d219e15359947f0ce7411b7b91fd5668/browse)
     - [7.4 Software Architecture Document](13-architecture)
     - [7.5 ECB](15-BCE)
