@@ -3,8 +3,36 @@
 
 
 **安装包和安装说明**
->- [iOS前端仓库安装说明](https://github.com/jupiter-sysu/jupiter-fe)
- >- [管理端安装说明](https://github.com/jupiter-sysu/jupiter-management) 
+>- [iOS前端仓库安装说明]
+
+1.于[https://github.com/jupiter-sysu/jupiter-fe.git](https://github.com/jupiter-sysu/jupiter-fe.git)下载项目源代码；
+2.到源代码主目录下，使用命令行输入“yarn”下载资源包；
+![这里写图片描述](https://img-blog.csdn.net/2018070723223972?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4MTIxMzAw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+3.将项目导入xcode选择模拟器使用
+![这里写图片描述](https://img-blog.csdn.net/20180707233213871?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4MTIxMzAw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+>- [管理端前端安装说明]
+
+ 1.首先拉取github仓库:<br>git@github.com:jupiter-sysu/jupiter-management.git
+<br>2.然后拉取"dev"分支并切换到该分支
+```
+$git pull origin dev
+$git checkout dev
+```
+
+<br>3.执行"yarn"或"npm install"拉取依赖
+```
+$yarn
+$npm install
+```
+
+<br>4.执行"yarn start"或"npm start"运行项目
+```
+$yarn start
+$npm start
+```
+
+
   >- [后端安装说明](https://github.com/jupiter-sysu/jupiter-be) 
 ---
   **使用说明**
