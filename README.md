@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## SE-308 最终制品 / Jupiter
+<木星>通过提供体验式攻略、智能行程定制服务，解决游客不能体验式旅行、行程规划繁琐等问题，让用户更能玩出个性、玩出深度。
 
-You can use the [editor on GitHub](https://github.com/jupiter-sysu/dashboard/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**安装包和安装说明**
+>- [iOS前端仓库安装说明](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/prd.md)
+ >- [管理端安装说明](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/low-fidelity.md) 
+  >- [后端安装说明](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/low-fidelity.md) 
+---
+  **使用说明**
+略。
 
-### Markdown
+---
+**所有源代码**
+>- [iOS前端仓库](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/prd.md)
+ >- [管理端仓库](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/low-fidelity.md) 
+  >- [后端仓库](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/low-fidelity.md) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
+**《软件需求规格说明书》（SRS)**
+>- [软件需求规格说明书](./srs.md)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jupiter-sysu/dashboard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+**小组分工与贡献度说明**
+>- [小组分工与贡献度说明](./fg.md)
