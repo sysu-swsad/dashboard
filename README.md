@@ -3,22 +3,25 @@
 
 
 **安装包和安装说明**
->- [iOS前端仓库安装说明](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/prd.md)
- >- [管理端安装说明](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/low-fidelity.md) 
-  >- [后端安装说明](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/low-fidelity.md) 
+>- [iOS前端仓库安装说明](https://github.com/jupiter-sysu/jupiter-fe)
+ >- [管理端安装说明](https://github.com/jupiter-sysu/jupiter-management) 
+  >- [后端安装说明](https://github.com/jupiter-sysu/jupiter-be) 
 ---
   **使用说明**
 略。
 
 ---
 **所有源代码**
->- [iOS前端仓库](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/prd.md)
- >- [管理端仓库](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/low-fidelity.md) 
-  >- [后端仓库](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/low-fidelity.md) 
-
+>- [iOS前端仓库](https://github.com/jupiter-sysu/jupiter-fe)
+>- [管理端仓库](https://github.com/jupiter-sysu/jupiter-management) 
+>- [后端仓库](https://github.com/jupiter-sysu/jupiter-be) 
 ---
 **《软件需求规格说明书》（SRS)**
 >- [软件需求规格说明书](./srs.md)
+
+---
+**《软件设计文档》（SDS)**
+>- [软件设计文档](./sds.md)
 
 ---
 **小组分工与贡献度说明**
