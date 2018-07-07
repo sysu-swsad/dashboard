@@ -1,6 +1,6 @@
 ## 软件设计文档
 ### UI design
-- [登录注册用例原型文件](https://pan.baidu.com/s/1LtsWomA5lpZ50qMbJgSygg) UI原型文件【密码：ak7k】（必须手动下载才能预览）
+- [登录注册用例原型文件](https://pan.baidu.com/s/1LtsWomA5lpZ50qMbJgSygg) UI原型文件【密码：ak7k】（必须手动下载才能预览）
 
 ---
 ### Database design
@@ -12,7 +12,7 @@
 
 ---
 ### 用到的技术
-- React
+- React
 - React Native
 - Ant design
 - PHP
@@ -43,14 +43,14 @@
 3. 三端
 - 这也许是 React 最吸引人的地方了。一套代码，三端生产。
 
-4. 分工
+4. 分工
 - 因为组件化所以分工可以很高效
 
 **RN的原因呢**
 1. 比较好的 View 处理方式
 2. 两端统一
 3. 组件比较多
-4. 比原生的开发成本要降低
+4. 比原生的开发成本要降低
 
 ---
 ### 架构设计
@@ -66,12 +66,12 @@ React 组件，这一层可以看作 controller-views，作为视图同时响应
 - the actions
 提供给 dispatcher 传递数据给 store
 
-我们选择Mobx来实现类Flux的架构，具体的流程如下：
+我们选择Mobx来实现类Flux的架构，具体的流程如下：
 ![](assets/pics/flow.png)
 
 我们的View部分都放在`Containers`文件夹，也就是React的模版语言。我们尽可能在这里不写过多的业务逻辑，只做展示型的组件。然后通过`Store`文件夹来管理状态。在Mobx中，我们可以把action、state、computed values写在同一个页面内，这样的好处就是比较直观，不会像Redux那样需要写更多的东西。所有的状态都是单向流动的，不会像MVC一样有很多的Controller可以改变Model，数据状态混乱不堪。
 
-Mobx还有一个非常好的优势就是支持异步dispatch，这个是很好用的一个东西，在redux中要用一个嵌套的写法来完成异步，而Mobx则可以直接使用ES7的async，非常直观。
+Mobx还有一个非常好的优势就是支持异步dispatch，这个是很好用的一个东西，在redux中要用一个嵌套的写法来完成异步，而Mobx则可以直接使用ES7的async，非常直观。
 
 ####服务器端
 
@@ -145,7 +145,7 @@ export default function LoginRedirect(path: String) {
     });
 }
 ```
-使用的方法就是在要使用的组件引入这个函数，然后使用decorator修饰组件。
+使用的方法就是在要使用的组件引入这个函数，然后使用decorator修饰组件。
 ```javascript
 @unLoginRedirect('/login')
 @observer
@@ -159,9 +159,9 @@ class Message extends Component<PropType> {
 ---
 ## 模块划分
 **前端**
-1.目录结构
+1.目录结构
 2.具体的一些模块
 
 **服务端**
-1.目录结构
+1.目录结构
 2.具体的一些模块
