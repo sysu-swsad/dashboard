@@ -16,11 +16,11 @@
 >- [管理端仓库](https://github.com/jupiter-sysu/jupiter-management) 
 >- [后端仓库](https://github.com/jupiter-sysu/jupiter-be) 
 ---
-**《软件需求规格说明书》（SRS)**
+**《软件需求规格说明书》**
 >- [软件需求规格说明书](./srs.md)
 
 ---
-**《软件设计文档》（SDS)**
+**《软件设计文档》**
 >- [软件设计文档](./sds.md)
 
 ---
