@@ -5,10 +5,10 @@
 **安装包和安装说明**
 >- [iOS前端仓库安装说明]
 
-1.于[https://github.com/jupiter-sysu/jupiter-fe.git](https://github.com/jupiter-sysu/jupiter-fe.git)下载项目源代码；
-2.到源代码主目录下，使用命令行输入“yarn”下载资源包；
+1. 于[https://github.com/jupiter-sysu/jupiter-fe.git](https://github.com/jupiter-sysu/jupiter-fe.git)下载项目源代码；
+2. 到源代码主目录下，使用命令行输入“yarn”下载资源包；
 ![这里写图片描述](https://img-blog.csdn.net/2018070723223972?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4MTIxMzAw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-3.将项目导入xcode选择模拟器使用
+3. 将项目导入xcode选择模拟器使用
 ![这里写图片描述](https://img-blog.csdn.net/20180707233213871?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4MTIxMzAw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 >- [管理端前端安装说明]
