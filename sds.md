@@ -155,6 +155,44 @@ class Message extends Component<PropType> {
 ```
 
 **服务端**
+**1. 简单工厂模式**
+服务端的接口实现都依照简单工厂模式。服务端根据前端传送的参数进行对应的操作，最后返回对应的响应包。服务端充当工厂的角色，前端只需按照约定的接口传输数据就能得到响应。
+```php
+// read from post
+$post_body = file_get_contents('php://input');
+$post_body_json = json_decode($post_body);
+$review_id = $post_body_json->review_id;
+$page_num = $post_body_json->page_num;
+
+if ($page_num == 0) {
+
+    //query by infomation in post
+    $res = mysql_query("SELECT * FROM experience_review_info_temp WHERE experience_review_id=" . $review_id);
+    $row = $res ? mysql_fetch_assoc($res) : null;
+
+    // create response
+    if ($row != null) {
+        $user_id = $row['user_id'];
+        $res1 = mysql_query("SELECT * FROM user_info_temp WHERE user_id=" . $user_id);
+        $row1 = $res1 ? mysql_fetch_assoc($res1) : null;
+        $data['user_name'] = $row1['user_name'];
+        $data['user_profile_img'] = $row1['profile_picture'];
+        $data['review_date'] = $row['create_at'];
+        for ($count = 1; ($count<=3)&&($row['feature' . $count] != null); $count++) {
+            $data['review_tags'][$count-1] = $row['feature' . $count];
+        }
+        $data['star_rank'] = $row['star_rank'];
+        $data['review_text'] = $row['experience_review_text'];
+        for ($count = 1; ($count<=9)&&($row['photo' . $count] != null); $count++) {
+            $data['review_imgs'][$count-1] = $row['photo' . $count];
+        }
+        $data['like_num'] = $row['like_num'];
+        $data['comment_num'] = $row['comment_num'];
+    } else {
+        var_json("200", "ok", "成功", null);
+    }
+}
+```
 
 ---
 ## 模块划分
