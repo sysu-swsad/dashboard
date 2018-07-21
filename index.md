@@ -22,13 +22,13 @@ layout: default
     - 7.1 UI design
         - XX 用例 UI设计
     - 7.2 Database design
-        - 7.2.1 用户及权限系统数据库设计
+        - 7.2.1 用户及权限系统与数据表设计
         - 7.2.2 XX子系统数据课设计 
         - 7.2.x 第三方数据评审结果
     - 7.3 API design
     - 7.4 Software Architecture Document
     - 7.5 Usecase design
-         - 7.5.1 **xx case design**
+         - 7.5.1 xx case design
 * 8、生产规范与指南
     - 8.1 XX 代码规范
     - 8.2 REST API 设计规范
