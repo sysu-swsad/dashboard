@@ -32,11 +32,17 @@ layout: default
 * 8、生产规范与指南
     - 8.1 XX 代码规范
     - 8.2 REST API 设计规范
-    - **8.3 逻辑架构到应用程序映射指南**
-    - **8.4 物理架构云上部署 dock-compose.yml 文件编写与使用**
+    - 8.3 详细设计到应用程序框架映射指南
+    - 8.4 部署说明
+* 9、成品展示
+    - 9.1 XX短视频
+    - 9.2 XX短视频
 * X1 meet_recording
     - inception meeting (yy/mm/dd)
 * X2 Tech/Work Report
     - 学号-title
-* X3 **Final Report**
+* X3 Final Report
     - 学号-title
+    - 小组分工与贡献率说明
+* X9 一些优秀的分析设计
+    - [2018 EasyMealOrder](https://easymealorder.github.io/dashboard/)
