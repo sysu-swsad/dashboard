@@ -1,52 +1,187 @@
----
-layout: default
----
+[Android_Developers]: 
+https://developer.android.com/studio/intro/
 
-# [](#TOC)目录
+# Dashboard
 
-&nbsp;&nbsp; 
+Records of YummyOrder development progress.
 
-* 1、[About](01-about)（项目规划）
-* 2、[Team profile](02-team-profile)（团队组建）
-* 3、Investigation（项目前期调研）
-* 4、Vision（项目愿景）
-* 5、Product Backlog （产品特性）
-* 6、Requirement specification（需求规格说明）
-    - 6.1 Usecase Diagram（用例图）
-    - 6.2 Use Cases（用例+活动图）
-    - 6.3 Domian Models（领域模型）
-    - 6.4 State Models（状态模型）
-    - 6.5 System Sequence Diagrams（功能模型）
-    - 6.6 Supplementary Requirements（补充需求）
-* 7、Design（设计）
-    - 7.1 UI design
-        - XX 用例 UI设计
-    - 7.2 Database design
-        - 7.2.1 用户及权限系统与数据表设计
-        - 7.2.2 XX子系统数据课设计 
-        - 7.2.x 第三方数据评审结果
-    - 7.3 API design
-    - 7.4 Software Architecture Document
-    - 7.5 Usecase design
-         - 7.5.1 xx case design
-* 8、生产规范与指南
-    - 8.1 XX 代码规范
-    - 8.2 REST API 设计规范
-    - 8.3 架构设计、详细设计（BCE方法）到应用程序框架映射指南
-    - 8.4 部署说明
-* 9、成品展示
-    - 9.1 XX短视频
-    - 9.2 XX短视频
-* X1 meet_recording
-    - inception meeting (yy/mm/dd)
-* X2 Tech/Work Report
-    - 学号-title
-* X3 Final Report
-    - 学号-title
-    - 小组分工与贡献率说明
-* X9 一些优秀的分析设计
-    - 【推】[2018 Tinny Hippo 小河马点餐系统](https://rookies-sysu.github.io/Dashboard/) 优秀的项目一定从 About 开始！简洁的 Demo，完美的看板安排！
-    - 【推】[2018 Baoleme](https://baoleme.github.io/Dashboard/) 项目策划、需求分析、设计、测试、产品演示、每个迭代的会议、技术报告，每个工作都非常认真！餐饮客户端服务只能申请业主程序，这符合腾讯商业策略。
-    - [2018 Owl Movies](https://owl-movies-ticket-system.github.io/Dashboard/) 从 about 就看出是有组织的团队。当你在每个迭代打开仓库Insights->contributors，作为经理的就明白管理的真谛 -- 不是领导与指派，而是来自成员发自内心的自省。
-    - [2018 中大零饭](https://dtosaad.github.io/documents/)，居然看完了完整[视频演示](https://www.bilibili.com/video/av26106597)，包含基本功能和创新功能（协同点餐）
-    - [2018 Eat点点](https://chickendinner8.github.io/) 小清新风格文档主页。 除了烤鸭之外的[鸭架汤](https://github.com/ChickenDinner8/SDP-document)也不错
+## About Project
+
+该项目的主题是“外卖点餐”,即设计一个云+端移动应用框架，来实现客户端点餐与web端商家交互的功能。同时，在实现外卖点餐的基本功能基础上，进行创新性的拓展，使产品更具吸引力，竞争性。
+
+## Core Artifcacts
+- 团队名称：YummyOrder
+- 团队目标：为每个用户提供便捷优质的外卖点餐服务
+- 团队成员清单：
+
+| 学号 | 姓名 | 英文名 | 专业方向 | 职务 |
+| :--: | :--: | :--: | :--: | :-----------: |
+|  | 耀勇 |  |  |  | 
+| 18214759 | 李阳辉 | Eric Li | 技术 | 项目经理、Android工程师 | 
+| 18214787 | 陆润浩 | Bob Lu | 技术 | 产品经理、工程师 | 
+| 18214632 | 黄潮立 |  |  |  | 
+| 18214815 | 唐家伟 |  |  |  | 
+| 18214629 | 胡弘康 |  |  |  |
+
+- 具体分工和个人宣言
+
+| 姓名 | 分工内容 | 个人宣言 |
+| :--: | :--: | :--: |
+| 耀勇 |  |  |
+| 李阳辉 | 负责项目的前端需求分析以及技术开发维护，相关智能算法的设计；组织编写项目文档，协同管理项目进展； | 让产品eyecatching和reliable是我的追求！ |
+| 陆润浩 | 负责项目的面向对象需求分析、设计与后台开发工作；协调前后端工作，组织编写项目文档； | 不断前进！ |
+| 黄潮立 |  |  |
+| 唐家伟 |  |  |
+| 胡弘康 |  |  |
+
+## Demand Analysis
+
+| ID | Name | Imp | Est (week) | How to demo | Notes |
+|------|------|:---:|:----------:|----------------|------|
+|1|显示用户附近商家|50|4|用户打开客户端，能正确显示用户的大致位置，同时用户可自行选择目标位置，以此来显示附近商家|第一轮迭代|
+|2|用户点餐，商家备餐|50|3|用户选择目标商家，查看菜单，提交订单，商家收到订单，用户在客户端看到接单响应|第二轮迭代|
+|3|商家送达，用户评价|30|3|用户收到外卖，客户端显示已送达，并进行相应评价。商家收到评价|第三轮迭代|
+|4|拓展功能|20|3||第四轮迭代|
+
+
+## Iterations
+
+### Iteration 1
+
+- [资源]
+
+#### Week 1 (10/08/2018-10/14/2018)
+
+- 需求分析：给出此次迭代的需求
+- 概要设计 & 详细设计：确定了客户端和web端的技术框架，人员分工。通过公共文档整合了组内人员想法
+- 环境搭建：
+    - 在github上创建organization,小组成员进入组织
+    - 学习
+      scrum以及模板，确定Dashboard区域
+    - 创建gh-pages分支展示作业
+    - 编写index.md作为作业索引文件
+- 编码 & 测试：
+    - 客户端：完成 [Android Studio教程][Android_Developers]
+    - web端： 
+
+#### Week 2 ()
+
+- 需求分析：完善需求
+- 概要设计 & 详细设计：
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+#### Week 3 ()
+
+- 需求分析：无
+- 概要设计 & 详细设计：
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+#### Week 4 ()
+
+- 需求分析：确定下一轮迭代的需求
+- 概要设计 & 详细设计：
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+***
+
+### Iteration 2
+
+- [资源]() 
+
+#### Week 5 ()
+
+- 需求分析：确定这一轮迭代的目的
+- 概要设计 & 详细设计：
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+#### Week 6 ()
+
+- 需求分析：无
+- 概要设计 & 详细设计：无
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+#### Week 7 ()
+
+- 需求分析：确定下一轮迭代的需求
+- 概要设计 & 详细设计：
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+***
+
+### Iteration 3
+
+- [资源]() 
+- [资源]() 
+
+#### Week 8 ()
+
+- 需求分析：确定这一轮迭代的目的
+- 概要设计 & 详细设计：
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+#### Week 9 ()
+
+- 需求分析：无
+- 概要设计 & 详细设计：无
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+#### Week 10 ()
+
+- 需求分析：确定下一轮迭代的需求
+- 概要设计 & 详细设计：
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+***
+
+### Iteration 4
+
+- [资源]() 
+
+#### Week 11 ()
+
+- 需求分析：确定这一轮迭代的目的
+- 概要设计 & 详细设计：
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+#### Week 12 ()
+
+- 需求分析：无
+- 概要设计 & 详细设计：无
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+#### Week 13 ()
+
+- 需求分析：无
+- 概要设计 & 详细设计：无
+- 编码 & 测试：
+    - 客户端：
+    - web端： 
+
+***
+
+### Final
+
+- 代码优化
+- 完善 UI 错误提示
