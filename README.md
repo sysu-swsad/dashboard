@@ -1,37 +1,187 @@
-## Welcome to GitHub Pages
+[Android_Developers]: 
+https://developer.android.com/studio/intro/
 
-You can use the [editor on GitHub](https://github.com/sysu-sasd-project/dashboard/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+# Dashboard
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Records of YummyOrder development progress.
 
-### Markdown
+## About Project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+该项目的主题是“外卖点餐”,即设计一个云+端移动应用框架，来实现客户端点餐与web端商家交互的功能。同时，在实现外卖点餐的基本功能基础上，进行创新性的拓展，使产品更具吸引力，竞争性。
 
-```markdown
-Syntax highlighted code block
+## Core Artifcacts
+- 团队名称：YummyOrder
+- 团队目标：为每个用户提供便捷优质的点餐服务
+- 团队成员清单：
 
-# Header 1
-## Header 2
-### Header 3
+| 学号 | 姓名 | 英文名 | 专业方向 | 职务 |
+| :--: | :--: | :--: | :--: | :-----------: |
+|  | 耀勇 |  |  |  | 
+| 18214759 | 李阳辉 | Eric Li | 技术 | 项目经理、Android工程师 | 
+| 18214787 | 陆润浩 |  |  |  | 
+| 18214632 | 黄潮立 |  |  |  | 
+| 18214815 | 唐家伟 |  |  |  | 
+| 18214629 | 胡弘康 |  |  |  |
 
-- Bulleted
-- List
+- 具体分工和个人宣言
 
-1. Numbered
-2. List
+| 姓名 | 分工内容 | 个人宣言 |
+| :--: | :--: | :--: |
+| 耀勇 |  |  |
+| 李阳辉 | 负责项目的前端需求分析以及技术开发维护，相关智能算法的设计；组织编写项目文档，协同管理项目进展； | 让产品eyecatching和reliable是我的追求！ |
+| 陆润浩 |  |  |
+| 黄潮立 |  |  |
+| 唐家伟 |  |  |
+| 胡弘康 |  |  |
 
-**Bold** and _Italic_ and `Code` text
+## Demand Analysis
 
-[Link](url) and ![Image](src)
-```
+| ID | Name | Imp | Est (week) | How to demo | Notes |
+|------|------|:---:|:----------:|----------------|------|
+|1|显示用户附近商家|50|4|用户打开客户端，能正确显示用户的大致位置，同时用户可自行选择目标位置，以此来显示附近商家|第一轮迭代|
+|2|用户点餐，商家备餐|50|3|用户选择目标商家，查看菜单，提交订单，商家收到订单，用户在客户端看到接单响应|第二轮迭代|
+|3|商家送达，用户评价|30|3|用户收到外卖，客户端显示已送达，并进行相应评价。商家收到评价|第三轮迭代|
+|4|拓展功能|20|3||第四轮迭代|
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Iterations
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sysu-sasd-project/dashboard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Iteration 1
 
-### Support or Contact
+- [资源]
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Week 1 (10/08/2018-10/14/2018)
+
+- 需求分析：给出此次迭代的需求
+- 概要设计 & 详细设计：确定了客户端和web端的技术框架，人员分工。通过公共文档整合了组内人员想法
+- 环境搭建：
+    - 在github上创建organization,小组成员进入组织
+    - 学习
+      scrum以及模板，确定Dashboard区域
+    - 创建gh-pages分支展示作业
+    - 编写index.md作为作业索引文件
+- 编码 & 测试：
+    - 客户端：完成 [Android Studio教程][Android_Developers]
+    - web端： 
+
+#### Week 2 ()
+
+- 需求分析：完善需求
+- 概要设计 & 详细设计：
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+#### Week 3 ()
+
+- 需求分析：无
+- 概要设计 & 详细设计：
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+#### Week 4 ()
+
+- 需求分析：确定下一轮迭代的需求
+- 概要设计 & 详细设计：
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+***
+
+### Iteration 2
+
+- [资源]() 
+
+#### Week 5 ()
+
+- 需求分析：确定这一轮迭代的目的
+- 概要设计 & 详细设计：
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+#### Week 6 ()
+
+- 需求分析：无
+- 概要设计 & 详细设计：无
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+#### Week 7 ()
+
+- 需求分析：确定下一轮迭代的需求
+- 概要设计 & 详细设计：
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+***
+
+### Iteration 3
+
+- [资源]() 
+- [资源]() 
+
+#### Week 8 ()
+
+- 需求分析：确定这一轮迭代的目的
+- 概要设计 & 详细设计：
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+#### Week 9 ()
+
+- 需求分析：无
+- 概要设计 & 详细设计：无
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+#### Week 10 ()
+
+- 需求分析：确定下一轮迭代的需求
+- 概要设计 & 详细设计：
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+***
+
+### Iteration 4
+
+- [资源]() 
+
+#### Week 11 ()
+
+- 需求分析：确定这一轮迭代的目的
+- 概要设计 & 详细设计：
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+#### Week 12 ()
+
+- 需求分析：无
+- 概要设计 & 详细设计：无
+- 编码 & 测试：
+    - 客户端：
+    - web端：
+
+#### Week 13 ()
+
+- 需求分析：无
+- 概要设计 & 详细设计：无
+- 编码 & 测试：
+    - 客户端：
+    - web端： 
+
+***
+
+### Final
+
+- 代码优化
+- 完善 UI 错误提示
