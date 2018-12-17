@@ -12,7 +12,7 @@
 
 小程序主页面如下图所示：
 
-![index1](D:\研一上学期\系统分析与设计\images\index1.png)
+![index1](images/index1.png)
 
 具体的操作步骤如下：
 
