@@ -34,7 +34,7 @@ title: 竞品分析报告
     - 页面流图
     - 页面列表
 
-# 参考文档
+## 参考案例
 
 * [扫码点餐支付系统竞品报告](https://baoleme.github.io/Dashboard/documents/competitor_analyze.html)
 * [项目前期调研](https://sysu-gogo.github.io/sysu-gogo-food-docs/03-investigation)
