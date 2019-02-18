@@ -39,7 +39,7 @@ layout: default
     - 9.2 XX短视频
 * X1 meet-recording
     - inception meeting (yy/mm/dd)
-* X2 [KANBAN](x2-kanban.md)
+* X2 [KANBAN](x2-kanban)
 * X3 Tech/Work Report
     - 学号-title
 * X4 Final Report
