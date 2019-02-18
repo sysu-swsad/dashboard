@@ -10,7 +10,7 @@ layout: default
 * 2、[Team profile](02-team-profile)（团队组建与分工）
 * 3、[Investigation](03-invest)（项目前期调研/竞品分析）
 * 4、[Vision](04-vision)（项目愿景）
-* 5、Product Backlog （产品特性）
+* 5、[Product Backlog](05-backlog) （产品特性库）
 * 6、Requirement specification（需求规格说明）
     - 6.1 Usecase Diagram（用例图）
     - 6.2 Use Cases（用例+活动图）
@@ -39,7 +39,7 @@ layout: default
     - 9.2 XX短视频
 * X1 meet-recording
     - inception meeting (yy/mm/dd)
-* X2 [KANBAN](x2-kanban)
+* X2 [KANBAN](X2-kanban)
 * X3 Tech/Work Report
     - 学号-title
 * X4 Final Report
@@ -54,3 +54,4 @@ layout: default
 * [2018 Owl Movies](https://owl-movies-ticket-system.github.io/Dashboard/) 从 about 就看出是有组织的团队。当你在每个迭代打开仓库Insights->contributors，作为经理的就明白管理的真谛 -- 不是领导与指派，而是来自成员发自内心的自省。
 *  [2018 中大零饭](https://dtosaad.github.io/documents/)，居然看完了完整[视频演示](https://www.bilibili.com/video/av26106597)，包含基本功能和创新功能（协同点餐）
 * [2018 Eat点点](https://chickendinner8.github.io/) 小清新风格文档主页。 除了烤鸭之外的[鸭架汤](https://github.com/ChickenDinner8/SDP-document)也不错
+* [2017 AwesomeTickets](https://github.com/AwesomeTickets) 相当良好的项目组织

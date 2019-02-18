@@ -41,7 +41,7 @@ title: 看板
 
 ## 参考案例
 
-[project KANBAN](https://github.com/2018SystemAnalysis/Wechat-Odering-System/projects)
+1. [project KANBAN](https://github.com/2018SystemAnalysis/Wechat-Odering-System/projects)
 
 
 
