@@ -18,7 +18,6 @@ layout: default
     - 6.4 State Models（状态模型）
     - 6.5 System Sequence Diagrams（功能模型）
     - 6.6 Supplementary Requirements（补充需求）
-    - 6.x [需求评审记录](06x-auditing)
 * 7、Design（设计）
     - 7.1 UI design
         - XX 用例 UI设计
@@ -42,9 +41,9 @@ layout: default
     - inception meeting (yy/mm/dd)
 * X2 [KANBAN](X2-kanban)
 * X3 [auditing-records](x3-auditing)
-* X4 Tech/Work Report
+* X4 [Tech/Work Report](x4-techniques)
     - 学号-title
-* X5 Final Report
+* X5 [Final Report](x5-summary)
     - 学号-title
     - 小组分工与贡献率说明
 
