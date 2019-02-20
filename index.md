@@ -42,12 +42,3 @@ layout: default
     - 学号-title
     - 小组分工与贡献率说明
 
-# 参考项目
-
-* [2018研 为食喵](https://sysu-gogo.github.io/sysu-gogo-food-docs/) 罗裴然同学的总结较好展现了开发者转变观念带来的价值，其主要文档特别是API设计都是比较不错的。
-* 【推】[2018 Tinny Hippo 小河马点餐系统](https://rookies-sysu.github.io/Dashboard/) 优秀的项目一定从 About 开始！简洁的 Demo，完美的看板安排！
-* 【推】[2018 Baoleme](https://baoleme.github.io/Dashboard/) 项目策划、需求分析、设计、测试、产品演示、每个迭代的会议、技术报告，每个工作都非常认真！餐饮客户端服务只能申请业主程序，这符合腾讯商业策略。
-* [2018 Owl Movies](https://owl-movies-ticket-system.github.io/Dashboard/) 从 about 就看出是有组织的团队。当你在每个迭代打开仓库Insights->contributors，作为经理的就明白管理的真谛 -- 不是领导与指派，而是来自成员发自内心的自省。
-*  [2018 中大零饭](https://dtosaad.github.io/documents/)，居然看完了完整[视频演示](https://www.bilibili.com/video/av26106597)，包含基本功能和创新功能（协同点餐）
-* [2018 Eat点点](https://chickendinner8.github.io/) 小清新风格文档主页。 除了烤鸭之外的[鸭架汤](https://github.com/ChickenDinner8/SDP-document)也不错
-* [2017 AwesomeTickets](https://github.com/AwesomeTickets) 相当良好的项目组织
